@@ -80,7 +80,7 @@ endmodule
 ![output](l1.png)
 ## Output:
 ### RTL realization
-![output](o2.png)
+![output](nt.jpeg)
 ### Timing Diagram:
 ![otuput](tr.png)
 ## Result:
